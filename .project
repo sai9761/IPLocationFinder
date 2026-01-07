@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>IPLocationFinder</name>
-	<comment></comment>
+	<comment>This is the main comment for the project</comment>
 	<projects>
 	</projects>
 	<buildSpec>
